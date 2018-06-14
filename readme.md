@@ -2,10 +2,9 @@
 
 
 
-## Links
-1. [Basic Plumbing](https://www.abctlc.com/downloads/courses/Plumbing.pdf)
-2. [Plumbing - Various DIY](http://www.easy2diy.com/module_list.asp?parent1=Category&child1=Plumbing)
-3. [Fundamentals of plumbing and heating](https://www.google.com/search?q=Fundamentals+of+plumbing+and+heating&ie=utf-8&oe=utf-8&client=firefox-b-ab)
+## Plumbing links
+1. [Plumbing - Various DIY](http://www.easy2diy.com/module_list.asp?parent1=Category&child1=Plumbing)
+2. [Fundamentals of plumbing and heating](https://www.google.com/search?q=Fundamentals+of+plumbing+and+heating&ie=utf-8&oe=utf-8&client=firefox-b-ab)
 
 
 
@@ -21,7 +20,28 @@
 
 
 
-## Books 
+## Books & Reading
 1. [Plumbing engineer design handbook](https://www.mepcafe.com/2018/04/plumbing-engineering-design-handbook-by.html)
+2. [Level 2 NVQ/SVQ Plumbing Candidate Handbook 3rd Edition](https://www.bookdepository.com/Level-2-NVQ-SVQ-Plumbing-Candidate-Handbook-3rd-Edition-Jtl-Training/9780435031312?ref=grid-view)
+3. [The City & Guilds Textbook: Plumbing Book 2 for the Level 3 Apprenticeship and Level 3 Advanced Technical Diploma](https://www.bookdepository.com/City-Guilds-Textbook-Plumbing-Book-2-for-Level-3-Apprenticeship-Level-3-Advanced-Technical-Diploma-Michael-Maskrey/9781510416468?ref=grid-view)
+4. [List of Plumbing Books](https://www.bookdepository.com/category/1831/Plumbing)
+5. [Basic Plumbing](https://www.abctlc.com/downloads/courses/Plumbing.pdf)
+6. [The City & Guilds Textbook: Level 2 Diploma in Plumbing Studies (6035)](https://www.amazon.co.uk/City-Guilds-Textbook-Plumbing-Vocational/dp/0851932711)
+7. [The City & Guilds Textbook: Level 3 NVQ Diploma in Plumbing and Heating 6189](https://www.amazon.co.uk/City-Guilds-Textbook-Diploma-Plumbing/dp/0851932738/ref=pd_sim_14_5?_encoding=UTF8&pd_rd_i=0851932738&pd_rd_r=e8d4c816-6fb6-11e8-80b3-9131ac438cd8&pd_rd_w=TNggv&pd_rd_wg=YZAAX&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=3274180622111699416&pf_rd_r=8VPP0P2TNVAW7SMY351V&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=8VPP0P2TNVAW7SMY351V)
+8. [Plumbing (R. D. Treloar )](https://www.easons.com/plumbing-r-d-treloar-9781405189590)
+9. [Pipes and Fittings](https://en.wikipedia.org/wiki/Piping_and_plumbing_fitting)
+ * [Pdf 1](http://www.muellerindustries.com/uploads/pdf/Streamline%20HVACR.pdf)
+ * [Pdf 2](http://www.charlottepipe.com/Documents/CI_Technical_Manual/CI_Technical_Manual.pdf)
+ * [Pdf 3](http://www.columbiapipe.com/PIN_ASSETS/PIN_Data/parsed/Charlotte_Pipe/Catalog/Plastic_Pipe_Fittings_DC-DWV(609).pdf)
+
+
+
+## Articles
+1. [What’s the difference between a plumber and a plumbing engineer?](http://www.enerdyneengineering.com/what_the_difference_between_a_plumber_and_a_plumbing_engineer.htm)
+2. [The Irish Plumbing and Heating Engineers, February 1969](https://arrow.dit.ie/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1058&context=bsn)
+3. []()
+
+
+
 
 
