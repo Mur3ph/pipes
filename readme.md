@@ -33,6 +33,8 @@
  * [Pdf 1](http://www.muellerindustries.com/uploads/pdf/Streamline%20HVACR.pdf)
  * [Pdf 2](http://www.charlottepipe.com/Documents/CI_Technical_Manual/CI_Technical_Manual.pdf)
  * [Pdf 3](http://www.columbiapipe.com/PIN_ASSETS/PIN_Data/parsed/Charlotte_Pipe/Catalog/Plastic_Pipe_Fittings_DC-DWV(609).pdf)
+10. [Home Plumbing Manual](https://www.amazon.co.uk/Home-Plumbing-Manual-New-Ed/dp/085733817X/ref=sr_1_1?ie=UTF8&qid=1529050829&sr=8-1&keywords=home+plumbing+manual)
+11. [Wiring and Lighting](https://www.amazon.co.uk/Wiring-Lighting-Chris-Kitcher/dp/1847974163/ref=pd_bxgy_14_img_2?_encoding=UTF8&pd_rd_i=1847974163&pd_rd_r=f99d1ac2-7074-11e8-824c-ed4f524f6e0b&pd_rd_w=iAiL8&pd_rd_wg=YCmnh&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=3332058357179395958&pf_rd_r=TFDYTMTCK5NS1D6QBA4X&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=TFDYTMTCK5NS1D6QBA4X)
 
 
 
