@@ -20,7 +20,7 @@
 
 
 
-## Books & Reading
+## Books
 1. [Plumbing engineer design handbook](https://www.mepcafe.com/2018/04/plumbing-engineering-design-handbook-by.html)
 2. [Level 2 NVQ/SVQ Plumbing Candidate Handbook 3rd Edition](https://www.bookdepository.com/Level-2-NVQ-SVQ-Plumbing-Candidate-Handbook-3rd-Edition-Jtl-Training/9780435031312?ref=grid-view)
 3. [The City & Guilds Textbook: Plumbing Book 2 for the Level 3 Apprenticeship and Level 3 Advanced Technical Diploma](https://www.bookdepository.com/City-Guilds-Textbook-Plumbing-Book-2-for-Level-3-Apprenticeship-Level-3-Advanced-Technical-Diploma-Michael-Maskrey/9781510416468?ref=grid-view)
@@ -39,10 +39,12 @@
 
 
 
-## Articles
+## Articles & Websites
 1. [What’s the difference between a plumber and a plumbing engineer?](http://www.enerdyneengineering.com/what_the_difference_between_a_plumber_and_a_plumbing_engineer.htm)
 2. [The Irish Plumbing and Heating Engineers, February 1969](https://arrow.dit.ie/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1058&context=bsn)
-3. []()
+3. [The Plumber.com](https://theplumber.com/plumbing-handbook/)
+4. [Heating & Plumbing Monthly](http://www.hpmmag.com/)
+5. [Plumbing Trade Magazine](http://plumbingtrademagazine.co.uk/)
 
 
 
