@@ -17,6 +17,7 @@
 
 ## Courses
 1. [Building Engineering (DIT)](http://www.dit.ie/studyatdit/part-time/programmescourses/allcourses/buildingengineeringdt6030.html)
+2. [Upper Plumbers: Free Online tutorials and Quiz](http://www.upperplumbers.co.uk/plumbing.html)
 
 
 
@@ -36,7 +37,8 @@
 10. [Home Plumbing Manual](https://www.amazon.co.uk/Home-Plumbing-Manual-New-Ed/dp/085733817X/ref=sr_1_1?ie=UTF8&qid=1529050829&sr=8-1&keywords=home+plumbing+manual)
 11. [Wiring and Lighting](https://www.amazon.co.uk/Wiring-Lighting-Chris-Kitcher/dp/1847974163/ref=pd_bxgy_14_img_2?_encoding=UTF8&pd_rd_i=1847974163&pd_rd_r=f99d1ac2-7074-11e8-824c-ed4f524f6e0b&pd_rd_w=iAiL8&pd_rd_wg=YCmnh&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=3332058357179395958&pf_rd_r=TFDYTMTCK5NS1D6QBA4X&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=TFDYTMTCK5NS1D6QBA4X)
 12. [Master Basic Plumbing And Central Heating: A quick guide to plumbing and heating jobs, including basic emergency repairs (Teach Yourself)](https://www.amazon.co.uk/Master-Basic-Plumbing-Central-Heating/dp/1473611628/ref=pd_sim_14_6?_encoding=UTF8&pd_rd_i=1473611628&pd_rd_r=91242fb7-70a6-11e8-80b3-9131ac438cd8&pd_rd_w=GVL2H&pd_rd_wg=zyN2D&pf_rd_i=desktop-dp-sims&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=3274180622111699416&pf_rd_r=KRN7RYBP8KJ4111Z28FY&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=KRN7RYBP8KJ4111Z28FY)
-13. [Level 2 NVQ Diploma in Plumbing and Heating](https://www.amazon.co.uk/Level-NVQ-Diploma-Plumbing-Heating/dp/0851932096)
+13. [Level 2 NVQ Diploma in Plumbing and Heating in Plumbing Studies 6035](https://www.amazon.co.uk/Level-NVQ-Diploma-Plumbing-Heating/dp/0851932096)
+14. [The City & Guilds Textbook: Level 3 Diploma in Plumbing Studies 6035](https://www.amazon.com/City-Guilds-Textbook-Diploma-Plumbing/dp/085193272X/ref=sr_1_4?s=books&ie=UTF8&qid=1532639965&sr=1-4)
 
 
 
@@ -46,6 +48,7 @@
 3. [The Plumber.com](https://theplumber.com/plumbing-handbook/)
 4. [Heating & Plumbing Monthly](http://www.hpmmag.com/)
 5. [Plumbing Trade Magazine](http://plumbingtrademagazine.co.uk/)
+ * [Pride in workmanship](https://plumbingtrademagazine.co.uk/content/pride-workmanship-does-it-matter-anymore)
 
 
 
